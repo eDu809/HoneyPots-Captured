@@ -1,1 +1,15 @@
 These are malicious files captured by the honeypots
+
+02c5f1515bf42798728fac17bfe1e4c1:                                 PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
+0ab2aeda90221832167e5127332dd702:                                 PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
+48eb7351a57596a4e57931b194ca8d72:                                 PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
+685bc2af410d86a742b59b96d116a7d9:                                 PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
+785c11f91afc317466f61d38c843f791:                                 PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
+7c4a3f8a14754cb2911b88c17f1f447c:                                 PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
+8bd8a9c3871c32f8dfbac7711a75dc52:                                 PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
+95ae8e32eb8635e7eabe14ffbfaa777b:                                 PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
+9dc9f707364c8e9b822c188eb41e3649:                                 PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
+b075ffe9788c0befe9ba892d0844bfd0:                                 PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
+bf8dc5eca570a1a0d702303547b736cff9df54c31745dde90dfc429580c0cc28: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=f2327535dd52b989890f3580612f871e6025c327, stripped
+ebaf4de7ec5324a5abe73fdb45e6fff4:                                 PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
+irc.pl:                                                           Perl script text executable
